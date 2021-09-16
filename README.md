@@ -192,12 +192,10 @@ http://65.2.151.139:8080/
 The default port of jenkin is 8080.
 
 1. The initial step is installation of ansible module. 
-   
-   Please use the following  steps to install plugins.
-   ``sh
+   ```sh
    Manage Jenkins --> Manage Plugins
    ```
-   
+   ![alt text](
    
    
    Once the installation completes, configure the ansible, for the same navigate to Global Tool Configuration
