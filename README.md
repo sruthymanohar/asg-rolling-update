@@ -203,6 +203,9 @@ The default port of jenkin is 8080.
    
 3. Then updates with the name and executable path for the ansible plugin.
   ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/picture3.PNG)
+  
+4. Next create a free style project from Dashboard --> New Item and update the Git repository url under Source Code Management and SAVE.
+
    
  
  
