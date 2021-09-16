@@ -197,6 +197,7 @@ The default port of jenkin is 8080.
    ```
    ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/Capture1.PNG)
    
+
 2. The next step is configure the ansible, for the same navigate to Global Tool Configuration
-  ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/Capture2.PNG)
+ 
 
