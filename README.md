@@ -12,10 +12,10 @@ Architecture:
 ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/architecture.png)
 
 Features:
-    - Continuous Deployment with Jenkins, playbook automattically run using  ansible plugin in jenkins.
-    - When a  a new version of site contents are uploaded in github it automattically pushes to    main website.
-    - Dynamic Inventory Is configured
-    -  At a time one instance will be updated so we can avoid downtime of client applications
+- Continuous Deployment with Jenkins, playbook automattically run using  ansible plugin in jenkins.
+- When a  a new version of site contents are uploaded in github it automattically pushes to    main website.
+- Dynamic Inventory Is configured
+- At a time one instance will be updated so we can avoid downtime of client applications
    
     
  Pre-Requests :
