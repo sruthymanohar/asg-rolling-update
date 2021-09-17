@@ -223,4 +223,8 @@ The default port of jenkin is 8080.
    Once the github is configured return to Jenkins configuration as such to trigger when GitHub pushes
    
    ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/Capture8.PNG)
+   
+   # conclusion
+   
+
 
