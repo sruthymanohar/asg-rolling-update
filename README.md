@@ -204,9 +204,23 @@ The default port of jenkin is 8080.
 3. Then updates with the name and executable path for the ansible plugin.
   ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/picture3.PNG)
   
-4. Next create a free style project from Dashboard --> New Item and update the Git repository url under Source Code Management and SAVE.
-
+4. Next create a free style project  
    
+   Dashboard -->New item
+   
+   Then update github repository url as shown in the image.
+   
+   ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/Capture5.PNG)
+   
+   Then apply build procedure "Invoke Ansible Playbook" and ansible playbook location
+   
+   ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/Capture6.PNG)
  
- 
+   We can provide additional security for the ansible file with ansible-vault. Once the jenikn is configured update Github webhook with jenkin server details.
+   
+   ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/Capture7.PNG)
+   
+   Once the github is configured return to Jenkins configuration as such to trigger when GitHub pushes
+   
+   ![alt text](https://github.com/sruthymanohar/asg-rolling-update/blob/main/Capture8.PNG)
 
