@@ -226,5 +226,4 @@ The default port of jenkin is 8080.
    
    # conclusion
    
-
-
+ Here is the rolling automated autoscale group. The automation is done with jenkin and webhook feature in git.
